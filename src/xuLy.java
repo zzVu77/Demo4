@@ -19,6 +19,7 @@ public class xuLy {
         TruongHoc truong = new TruongHoc();
         truong.nhap();
         doMenu(truong);
+        ////hihihihihihi
     }
 
     private static void inMenu() {

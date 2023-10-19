@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Edit by github
 public class QuanLySV {
     // 1. Các thuộc tính
     private float diemToan;
